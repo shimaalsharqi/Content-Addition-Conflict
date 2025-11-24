@@ -1,0 +1,3 @@
+Team Leader: John Smith
+Project Status: Active
+Developer: Alice Johnson
